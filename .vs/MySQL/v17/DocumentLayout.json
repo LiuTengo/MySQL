@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjectFiles\\VisualStudio\\MySQL\\MySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCC6F72-C604-4E31-9266-A6685C921784}|MySQL\\MySQL.vcxproj|E:\\ProjectFiles\\VisualStudio\\MySQL\\MySQL\\MySQL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DCC6F72-C604-4E31-9266-A6685C921784}|MySQL\\MySQL.vcxproj|solutionrelative:MySQL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\ProjectFiles\\VisualStudio\\MySQL\\MySQL\\MySQL\\main.cpp",
+              "RelativeDocumentMoniker": "MySQL\\main.cpp",
+              "ToolTip": "E:\\ProjectFiles\\VisualStudio\\MySQL\\MySQL\\MySQL\\main.cpp",
+              "RelativeToolTip": "MySQL\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T08:04:09.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
